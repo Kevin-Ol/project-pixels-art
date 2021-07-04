@@ -2,6 +2,8 @@
 
 ![Pixels_Art](https://user-images.githubusercontent.com/82068881/124369664-b35c7580-dc44-11eb-8385-1c13fc86e376.png)
 ***
+Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-pixels-art/).
+
 Foram utilizadas as tecnologias HTML, CSS e Javascript.
 
 O objetivo do projeto foi consolidar o conhecimento em manipulação de seletores DOM.
